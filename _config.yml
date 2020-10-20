@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: [Social Networks Lab - Covid19 Dashboard]
+description: [We provide results and summary statistics from all projects undertaken as part of the Covid19 Research suite]
+
+header_pages:
+  - index.html
+  - 03_model_suvey.html
